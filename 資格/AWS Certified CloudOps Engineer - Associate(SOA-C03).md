@@ -5,6 +5,7 @@
 ・AWS Certified Cloud Operations Engineer - Associate (SOA-C03)試験ガイド(https://d1.awsstatic.com/onedam/marketing-channels/website/aws/ja_JP/certification/approved/pdfs/docs-cloudops-associate/AWS-Certified-CloudOps-Engineer-Associate_Exam-Guide.pdf)
 
 【Skill Builder】
+
 ・Official Practice Question Set: AWS Certified CloudOps Engineer - Associate (SOA-C03 - 日本語)(https://skillbuilder.aws/learn/P9D6ZEQPZD/official-practice-question-set-aws-certified-cloudops-engineer--associate-soac03--/R4HNCGJ71X)
 
 ・Official Pretest: AWS Certified CloudOps Engineer - Associate (SOA-C03 - 日本語)(https://skillbuilder.aws/learn/MSQ77TVTZK/official-pretest-aws-certified-cloudops-engineer--associate-soac03--/HY75TMZAHC)
@@ -14,6 +15,7 @@
 ・Implementing Multi-Region Backup with Amazon S3 Cross-Region Replication (日本語)(https://skillbuilder.aws/learn/NVQC5ZDTRE/implementing-multiregion-backup-with-amazon-s3-crossregion-replication-/XP4PFNJHFS)
 
 【Black Belt】
+
 ・Savings Plans(https://pages.awscloud.com/rs/112-TZM-766/images/AWS-Black-Belt_2025_SavingsPlans_0430_v1.pdf)
 
 ・Amazon ECS ⼊⾨(https://pages.awscloud.com/rs/112-TZM-766/images/AWS-Black-Belt_2024_Amazon_ECS_Introduction_0831_v1.pdf)
