@@ -32,9 +32,26 @@ AWS Certified Cloud Operations Engineer - Associate (SOA-C03)試験ガイド(htt
 
 ・AWS Control Tower 手順編 AWS Control Tower の有効化(https://pages.awscloud.com/rs/112-TZM-766/images/AWS-Black-Belt_2023_AWS-ControlTower-Procedures_0831_v1.pdf)
 
-・AWS Control Tower 基礎編
+・AWS Control Tower 基礎編(https://pages.awscloud.com/rs/112-TZM-766/images/AWS-Black-Belt_2023_AWS-ControlTower-Basics_0831_v1.pdf)
 
-・AWS Control Tower 機能紹介編
+・AWS Control Tower 機能紹介編(https://pages.awscloud.com/rs/112-TZM-766/images/AWS-Black-Belt_2023_AWS-ControlTower-Features_0930_v1.pdf)
 
-・AWS Certificate Manager
+・AWS Certificate Manager(https://pages.awscloud.com/rs/112-TZM-766/images/AWS-Black-Belt_2023_AWS-Certificate-Manager_v1.pdf)
 
+【参考書】
+
+・AWS運用入門 改訂第2版　押さえておきたいAWSの基本と運用ノウハウ(https://amzn.asia/d/eu0pABn)
+
+【ブログ】
+
+・【開催報告 & 資料公開】AWS 春の Observability 祭り 2025(https://aws.amazon.com/jp/blogs/news/awsobservabilityfes2025spring/)
+
+・AWS Global Acceleratorとは？グローバル展開を加速させる高可用性ソリューション(https://business.ntt-east.co.jp/content/cloudsolution/column-551.html)
+
+・Amazon Application Recovery Controller（Amazon ARC）を利用した高可用性の実現～前編・解説編～(https://business.ntt-east.co.jp/content/cloudsolution/ih_column-148.html)
+
+・User NotificationsとSNSの違いを知りたい(https://dev.classmethod.jp/articles/usernotification-sns-difference/)
+
+【Cloudtech】
+
+・AWS資格演習対策コース　SOA(https://kws-cloud-tech.com/lessons/soa)
