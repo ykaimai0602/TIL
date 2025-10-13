@@ -1,8 +1,8 @@
 【参考】
 
-https://qiita.com/ec2_on_aws/items/969840636ac8cdb0ae27 
+・QIITA(https://qiita.com/ec2_on_aws/items/969840636ac8cdb0ae27)
 
-AWS Certified Cloud Operations Engineer - Associate (SOA-C03)試験ガイド(https://d1.awsstatic.com/onedam/marketing-channels/website/aws/ja_JP/certification/approved/pdfs/docs-cloudops-associate/AWS-Certified-CloudOps-Engineer-Associate_Exam-Guide.pdf)
+・AWS Certified Cloud Operations Engineer - Associate (SOA-C03)試験ガイド(https://d1.awsstatic.com/onedam/marketing-channels/website/aws/ja_JP/certification/approved/pdfs/docs-cloudops-associate/AWS-Certified-CloudOps-Engineer-Associate_Exam-Guide.pdf)
 
 【Skill Builder】
 ・Official Practice Question Set: AWS Certified CloudOps Engineer - Associate (SOA-C03 - 日本語)(https://skillbuilder.aws/learn/P9D6ZEQPZD/official-practice-question-set-aws-certified-cloudops-engineer--associate-soac03--/R4HNCGJ71X)
