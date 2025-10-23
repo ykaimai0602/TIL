@@ -1,6 +1,6 @@
 【参考】
 
-・QIITA(https://qiita.com/ec2_on_aws/items/969840636ac8cdb0ae27)　
+・QIITA(https://qiita.com/ec2_on_aws/items/969840636ac8cdb0ae27　)　
 
 ・AWS Certified Cloud Operations Engineer - Associate (SOA-C03)試験ガイド(https://d1.awsstatic.com/onedam/marketing-channels/website/aws/ja_JP/certification/approved/pdfs/docs-cloudops-associate/AWS-Certified-CloudOps-Engineer-Associate_Exam-Guide.pdf)
 
