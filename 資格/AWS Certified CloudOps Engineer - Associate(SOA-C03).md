@@ -59,4 +59,4 @@
 ・AWS資格演習対策コース　SOA(https://kws-cloud-tech.com/lessons/soa)
 
 1-230
-1-1~2-3
+1-1~3-1
